@@ -1,0 +1,23 @@
+[
+  {
+    "time_last_update_utc": "Wed, 10 Jul 2024 00:00:02 +0000",
+    "target_code": "EUR",
+    "conversion_rate": 0.05158,
+    "base_code": "MXN",
+    "conversion_result": 63.4434
+  },
+  {
+    "time_last_update_utc": "Wed, 10 Jul 2024 00:00:02 +0000",
+    "target_code": "MXN",
+    "conversion_rate": 0.01951,
+    "base_code": "ARS",
+    "conversion_result": 564.8972224
+  },
+  {
+    "time_last_update_utc": "Wed, 10 Jul 2024 00:00:02 +0000",
+    "target_code": "EUR",
+    "conversion_rate": 0.9244,
+    "base_code": "USD",
+    "conversion_result": 5351.3516
+  }
+]
