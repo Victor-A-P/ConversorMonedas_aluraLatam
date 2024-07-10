@@ -107,8 +107,8 @@ public class Main {
                         System.out.println("Esa no era una opción, por favor elige otra");
                 }
 
-
-                String direccion = "https://v6.exchangerate-api.com/v6/526b3232c7593d85df8a9898/pair/"
+//The key Should be in the place of the asterisks
+                String direccion = "https://v6.exchangerate-api.com/v6/***********/pair/"
                                     +monedaReferente+"/"+monedaCambio+"/"+dinero;
 
                 try {
